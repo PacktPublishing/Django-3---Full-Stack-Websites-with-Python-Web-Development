@@ -1,0 +1,4 @@
+If Statements and Comments Challenge
+View the challenge here: https://zappycode.com/challenge/2
+
+*These challenges will show the problem, and then a solution. There is nothing you have to input on the website. You just write the code on your computer and then check your answer with the website.*
